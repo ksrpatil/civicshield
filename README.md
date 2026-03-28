@@ -39,10 +39,9 @@ python civicshield_simulation_v4.py
 
 | File | Description |
 |------|-------------|
-| `civicshield_simulation_v4.py` | Main simulation (definitive version) |
+| `civicshield_simulation.py` | Main simulation (definitive version) |
 | `jbb_failure_analysis.py` | JailbreakBench failure mode analysis |
 | `llm_in_loop_test.py` | LLM-in-the-loop evaluation |
-| `civicshield_simulation_v3.py` | Intermediate simulation version |
 
 ## Requirements
 
